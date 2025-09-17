@@ -2,6 +2,7 @@ name: Sample App Tests
 
 on: push                                  
 
+
 jobs:                                     
   sample_app_tests:                       
     name: "Run Tests Using Jest"
